@@ -3,7 +3,7 @@
 The aim of this post actually is to help you Egyptian guys who are interested in AI related topics to find good companies to apply for if you are interested in the Artificial intelligence field as it’s a new field in the MENA area.
 
 
-[AI-Driven-Companies-in-Egypt](https://www.quora.com/q/myinterviewsexperiencein/AI-Driven-Companies-in-Egypt)
+[AI-Companies-in-Egypt](https://www.quora.com/q/myinterviewsexperiencein/AI-Driven-Companies-in-Egypt)
 
 | **Company** | **Domain** |
 |---|---|
